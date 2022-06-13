@@ -148,4 +148,4 @@ target/
 # hardhat
 */artifacts/*
 */cache/*
-
+*/deployments/*
