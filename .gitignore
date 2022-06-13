@@ -143,3 +143,9 @@ log/
 target/
 
 .vscode/*
+
+
+# hardhat
+*/artifacts/*
+*/cache/*
+
