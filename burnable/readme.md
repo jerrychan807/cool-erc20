@@ -11,15 +11,15 @@
 在`hardhat环境`测试
 
 - Deployment
-    - [x] set the right owner
-    - [x] Deployment,total supply = token owner balance
+  - [x] set the right owner
+  - [x] Deployment,total supply = token owner balance
 
 - Transactions
-    - [x] tokenOwner ---transfer--> user
-    - [x] userA ---transfer--> userB（Fee）,totalsupply`↓`,balance of contract `↑`
+  - [x] tokenOwner ---transfer--> user
+  - [x] userA ---transfer--> userB（Fee）,totalsupply`↓`,balance of contract `↑`
 
 - tokenOwner withdraw
-    - [x] tokenOwner withdraw from contract After userA to userB
+  - [x] tokenOwner withdraw from contract After userA to userB
 
 ```
   Token contract
