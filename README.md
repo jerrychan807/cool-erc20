@@ -21,7 +21,7 @@ Erc20 Multi Implementation for learning solidity basics and security
 |  Folder   | escription  | Difficulty | Link |
 |  ----  | ----  | ----  |----  |
 | prevent_sale  | 阻止代币销售 | ⭐ |xx |
-| suspend_trade  | 可暂停交易 | ⭐⭐ |xx |
+| pauseable  | 可暂停交易 | ⭐⭐ |[代码](https://github.com/jerrychan807/cool-erc20/tree/main/pauseable) [文章](https://jerrychan807.github.io/35217.html) |
 | not_sell_all  | 不能出售所有代币 | ⭐ |xx |
 | cooldown | 在某个时间/区块内无法交易 | ⭐ |xx |
 | anti_whale | 限制用户单笔买卖数量 | ⭐ |xx |
