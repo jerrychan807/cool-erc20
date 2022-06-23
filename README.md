@@ -12,8 +12,8 @@ Erc20 Multi Implementation for learning solidity basics and security
 |  Folder   | escription  | Difficulty |Link |
 |  ----  | ----  | ----  |----  |
 | burnable  | 发生代币转移时燃烧通缩(4%),税收(1%)留在合约里可提取 | ⭐ | [代码](https://github.com/jerrychan807/cool-erc20/tree/main/burnable) [文章](https://jerrychan807.github.io/2022/21702.html) |
-| four_way  | 区分Buy、Sell、AddLiquidity、RemoveLiquidity四种行为 |xx | [代码](https://github.com/jerrychan807/cool-erc20/tree/main/four_way) [文章](https://jerrychan807.github.io/2022/14814.html)  |
-| simplest  | 最少代码的 | xx |
+| four_way  | 区分Buy、Sell、AddLiquidity、RemoveLiquidity四种行为 |⭐⭐ | [代码](https://github.com/jerrychan807/cool-erc20/tree/main/four_way) [文章](https://jerrychan807.github.io/2022/14814.html)  |
+| simplest  | 最少代码的 | ⭐ |
 
 
 ## HoneyPot
@@ -21,22 +21,22 @@ Erc20 Multi Implementation for learning solidity basics and security
 |  Folder   | escription  | Difficulty | Link |
 |  ----  | ----  | ----  |----  |
 | prevent_sale  | 阻止代币销售 | ⭐ |xx |
-| pauseable  | 可暂停交易 | ⭐⭐ |[代码](https://github.com/jerrychan807/cool-erc20/tree/main/pauseable) [文章](https://jerrychan807.github.io/2022/35217.html) |
+| pauseable  | 可暂停交易 | ⭐ |[代码](https://github.com/jerrychan807/cool-erc20/tree/main/pauseable) [文章](https://jerrychan807.github.io/2022/35217.html) |
 | not_sell_all  | 不能出售所有代币 | ⭐ |xx |
 | cooldown | 在某个时间/区块内无法交易 | ⭐ |xx |
 | anti_whale | 限制用户单笔买卖数量 | ⭐ |xx |
 | modified_tax | 税费可修改 | ⭐ |xx |
 | blacklist | 黑名单无法交易 | ⭐ |[代码](https://github.com/jerrychan807/cool-erc20/tree/main/blacklist) [文章](https://jerrychan807.github.io/2022/24654.html) |
-| whitelist | 白名单可交易 | ⭐ |xx |
+| whitelist | 白名单可交易 | ⭐ | [代码](https://github.com/jerrychan807/cool-erc20/tree/main/whitelist) [文章](https://jerrychan807.github.io/2022/30342.html) |
 
 ## Backdoor
 
 |  Folder   | escription  | Difficulty | Link |
 |  ----  | ----  | ----  |----  |
-| proxy | 代理 | xx |xx |
-| mint  | mint功能，再铸币 | xx |xx |
-| retrieve_ownership  | 重新获得所有权 | xx |xx |
-| modified_balance  | 管理员可修改用户余额 | xx |xx |
+| proxy | 代理 | ⭐⭐⭐ |xx |
+| mint  | mint功能，再铸币 | ⭐ |xx |
+| retrieve_ownership  | 重新获得所有权 | ⭐⭐ |xx |
+| modified_balance  | 管理员可修改用户余额 | ⭐ |xx |
 
 ## Advanced
 
